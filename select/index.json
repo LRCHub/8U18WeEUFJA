@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "浪漫飛行",
+  "base_artist": "Kome Kome Club",
+  "createdAt": "2026-02-08T14:48:56.805570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/01_浪漫飛行_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "kome kome club",
+      "has_synced": false,
+      "path": "select/02_浪漫飛行_kome_kome_club.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嗚呼!浪漫飛行",
+      "artist": "米米CLUB",
+      "has_synced": true,
+      "path": "select/03_嗚呼!浪漫飛行_米米CLUB.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "米米CLUB",
+      "has_synced": true,
+      "path": "select/04_浪漫飛行_米米CLUB.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/05_浪漫飛行_宝鐘マリン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/06_浪漫飛行_HALCALI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "FEMM",
+      "has_synced": false,
+      "path": "select/07_浪漫飛行_FEMM.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "Gibson, Debbie",
+      "has_synced": false,
+      "path": "select/08_浪漫飛行_Gibson,_Debbie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "米米CLUB",
+      "has_synced": true,
+      "path": "select/09_浪漫飛行_米米CLUB.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "浪漫飛行 - Roman Hikō",
+      "artist": "Kome Kome Club",
+      "has_synced": true,
+      "path": "select/10_浪漫飛行_-_Roman_Hikō_Kome_Kome_Club.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "浪漫飛行 feat. Creepy Nuts",
+      "artist": "SANABAGUN.",
+      "has_synced": true,
+      "path": "select/11_浪漫飛行_feat._Creepy_Nuts_SANABAGUN..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "Kome Kome Club",
+      "has_synced": true,
+      "path": "select/12_浪漫飛行_Kome_Kome_Club.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/13_浪漫飛行_宝鐘マリン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "浪漫飛行",
+      "artist": "米米クラブ",
+      "has_synced": true,
+      "path": "select/14_浪漫飛行_米米クラブ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浪漫飛行",
+      "artist": "米米CLUB",
+      "has_synced": false,
+      "path": "select/pl_01_浪漫飛行_米米CLUB.txt"
+    }
+  ]
+}
